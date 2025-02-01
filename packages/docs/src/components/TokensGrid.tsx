@@ -1,4 +1,4 @@
-import "../stlyes/tokens-grid.css";
+import "../styles/tokens-grid.css";
 
 interface TokensGridsProps {
   tokens: Record<string, string>;
