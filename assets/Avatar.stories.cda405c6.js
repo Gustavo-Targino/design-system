@@ -1,0 +1,2 @@
+import{A as t}from"./index.dbc6a2bd.js";import"./index.b40458be.js";import"./iframe.f0d9ca30.js";import"./index.911ae48c.js";import"./jsx-runtime.5154c128.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gustavo-targino.png",alt:"Gustavo Targino"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{c as Primary,m as WithFallback,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.cda405c6.js.map
